@@ -1,0 +1,19 @@
+{
+  "name": "@koad/test-module",
+  "version": "1.0.0",
+  "description": "This is a test of the NPM registry module creation flow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koad/test-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koad/test-module/issues"
+  },
+  "homepage": "https://github.com/koad/test-module#readme"
+}
